@@ -10,6 +10,8 @@
  *   - Press `Ctrl K, Q`
 */
 
+// This is exampe code 
+
 // See the output of console.log right next to your code
 const quokka = { isAwesome: true };
 console.log("Mizba Irshad");
